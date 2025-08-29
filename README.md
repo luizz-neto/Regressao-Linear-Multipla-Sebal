@@ -17,7 +17,7 @@ O ajuste é feito por meio de **regressão linear múltipla**, levando em conta 
 ---
 
 ## 📂 Estrutura esperada dos dados
-O script espera um arquivo chamado **`teste-regre.csv`**, separado por `;`, contendo ao menos as seguintes colunas:
+O script espera um arquivo chamado **`planilha-dados-entrada.csv`**, separado por `;`, contendo ao menos as seguintes colunas:
 
 | SEBAL | VPD | Bowen Ratio |
 |-------|-----|-------------|
